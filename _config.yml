@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://adam.com
+url: Https://Adam.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -113,10 +113,10 @@ theme: matery
 deploy:
 - type: git
   repository:
-    github: git@github.com:Huangziming0830/Huangziming0830.github.io.git
-    coding: git@e.coding.net:Huangziming0830/Huangziming0830.git
+    github: git@github.com:HuangZiming0830/HuangZiming0830.github.io.git
+    coding: git@e.coding.net:HuangZiming0830/HuangZiming0830.git
   branch: master
-- type: baidu_url_submitter
+#- type: baidu_url_submitter
 
 
 live2d:
