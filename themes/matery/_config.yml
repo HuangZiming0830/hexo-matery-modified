@@ -96,11 +96,9 @@ indexbtn:
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  qq: 792321264
-  github: godweiyang
-  weibo: godweiyang
-  email: godweiyang@gmail.com
-  zhihu: godweiyang
+  qq: 3190979746@qq.com
+  github: Huangziming0830
+  email: AdamZeburg@gmail.com
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
 # You can add `toc: false` to the Front-matter of a post to turn off the TOC.
@@ -166,14 +164,14 @@ text:
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
   avatar: /medias/avatars/avatar.jpg
-  career: 华东师范大学 | 计算机科学与技术 | AntNLP
-  introduction: 我是华东师范大学计算机科学与技术专业2018级硕士研究生。直研进入本校计算机系攻读硕士，研究方向是深度学习与自然语言处理。我们实验室是AntNLP，欢迎大家报考！欢迎关注我的微信公众号「算法码上来」，干货每天不错过！
+  career: 北京航空航天大学 | 测控技术与仪器 | 数据分析
+  introduction: None
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
 # 在“关于”页面配置"我的项目"信息，如果你不需要这些信息则可以将其设置为不激活或者将其删除.
 myProjects:
-  enable: true
+  enable: False
   data:
     hexo-matery-modified:
       icon: fa-meetup
@@ -200,7 +198,7 @@ mySkills:
     Algorithm:
       background: 'linear-gradient(to right, #FF0066 0%, #FF00CC 100%)'
       percent: 90%
-    C++:
+    Matlab:
       background: 'linear-gradient(to right, #9900FF 0%, #CC66FF 100%)'
       percent: 80%
     Python:
@@ -209,16 +207,16 @@ mySkills:
     Pytorch:
       background: 'linear-gradient(to right, #951213 0%, #961117 100%)'
       percent: 75%
-    Dynet:
+    Image_Processing:
       background: 'linear-gradient(to right, #F12F12 0%, #F6464F 100%)'
       percent: 75%
-    Java:
+    R:
       background: 'linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)'
       percent: 50%
     SQL:
       background: 'linear-gradient(to right, #4CAF50 0%, #81C784 100%)'
       percent: 50%
-    HTML:
+    NLP:
       background: 'linear-gradient(to right, #FFEB3B 0%, #FFF176 100%)'
       percent: 45%
 
